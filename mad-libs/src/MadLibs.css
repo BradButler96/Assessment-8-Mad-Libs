@@ -1,0 +1,41 @@
+.madlib-container {
+    margin: auto;
+}
+
+.start-btn {
+    color: white;
+    background-color: black;
+    margin-top: 35vh;
+    padding: 3rem 10rem 3rem 10rem;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0 9px #999;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.start-btn:active {
+    color: white;
+    background-color: black;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+/* .new-btn {
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+    border: none;
+    padding: 1rem 2rem;
+    font-size: large;
+    font-weight: bold;
+    margin-right: 1rem;
+    box-shadow: 0 5px #999;
+}
+
+.new-btn:active {
+    color: white;
+    background-color: black;
+    box-shadow: 0 3px #666;
+    transform: translateY(4px);
+} */

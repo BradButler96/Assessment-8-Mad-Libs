@@ -1,0 +1,61 @@
+.form-container {
+    margin-top: 10vh;
+}
+
+#madlib-form {
+    margin: auto;
+}
+
+.form-input {
+    display: block;
+    margin: auto;
+    margin-bottom: 1rem;
+    height: 1.5rem;
+    width: 20vw;
+}
+
+.form-submit-btn {
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+    border: none;
+    padding: 0.5rem 2rem;
+    font-size: large;
+    font-weight: bold;
+    box-shadow: 0 5px #999;
+    display: block;
+    margin:auto;
+    margin-bottom: 1rem;
+    width: 20vw;
+}
+
+.form-submit-btn:active {
+    color: white;
+    background-color: black;
+    box-shadow: 0 3px #666;
+    transform: translateY(4px);
+}
+
+
+
+.new-form-btn {
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+    border: none;
+    padding: 0.5rem 2rem;
+    font-size: large;
+    font-weight: bold;
+    box-shadow: 0 5px #999;
+    display: block;
+    margin:auto;
+    width: 20vw;
+
+}
+
+.new-form-btn:active {
+    color: white;
+    background-color: black;
+    box-shadow: 0 3px #666;
+    transform: translateY(4px);
+}
